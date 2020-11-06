@@ -11,5 +11,7 @@ GoLang product rest api with db(mysql)
 
 
 # Get method example:
-http://localhost:8080/api/v1/product  # to output all products
-http://localhost:8080/api/v1/product/1 # to output one product
+# to output all products:
+http://localhost:8080/api/v1/product  
+# to output one product
+http://localhost:8080/api/v1/product/1 
